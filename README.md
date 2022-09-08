@@ -25,4 +25,4 @@ The administrator website will have features such as:
     - button to upload images, which will be displayed as thumbnail for the news article
     - button to upload images directly into the text field
 
-Tasks: []
+Tasks: [ ]
